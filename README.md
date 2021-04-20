@@ -18,15 +18,16 @@
 [<img alt="MariaDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png">](#MariaDB)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg">](#MySQL)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png">](#Windows%20Terminal)
-  
+<!--  
 <br>
-
+<!--
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact&title_color=333&text_color=333&bg_color=F5F8FA&hide_border=true">](#onGithub)
+-->
 
----
-
+<!--
 ### Newly published projects:
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe&title_color=333&text_color=333&bg_color=F5F8FA&hide_border=true">](https://github.com/Jonas-Hamburg/Tic-Tac-Toe/)
+-->
 
 <!---
 Jonas-Hamburg/Jonas-Hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
