@@ -1,4 +1,4 @@
-### Hi there, I'm [Jonas](https://github.com/Jonas-Hamburg/) 👋
+# Hi there, I'm [Jonas](https://github.com/Jonas-Hamburg/) 👋
 
 ## About me
 - 🌱 I'm currently learning Computer science / Software engineering
