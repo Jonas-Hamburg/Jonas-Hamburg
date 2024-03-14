@@ -1,5 +1,6 @@
 👋 Hi there, I’m Jonas \
-🌱 I'm currently learning Computer science / Software engineering \
+🧑‍💻 Engineer
+🌱 I'm currently learning media computer science \
 🧙‍♂️ Gladly solve the Rubik's Cube or other problems \
 ⚡️Hobbies: Kitesurfing, Snowboarding, play guitar and more \
 📫 You can get in contact with me via the contact form on [my homepage](https://jonas-hamburg.github.io)
