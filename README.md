@@ -1,5 +1,5 @@
 👋 Hi there, I’m Jonas \
-🧑‍💻 Engineer
+🧑‍💻 Engineer \
 🌱 I'm currently learning media computer science \
 🧙‍♂️ Gladly solve the Rubik's Cube or other problems \
 ⚡️Hobbies: Kitesurfing, Snowboarding, play guitar and more \
